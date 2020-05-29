@@ -12,4 +12,10 @@ registerApplication(
   () => (location.pathname === "/vue" ? false : true)
 );
 
+registerApplication(
+  "svelte",
+  () => import("./src/svelte/src/main.js"),
+  () => (location.pathname === "/vue" ? false : true)
+);
+
 start();

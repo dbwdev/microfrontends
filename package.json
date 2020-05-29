@@ -18,6 +18,7 @@
     "single-spa-react": "^2.14.0",
     "single-spa-svelte": "^2.0.0",
     "single-spa-vue": "^1.8.2",
+    "svelte": "^3.23.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -31,6 +32,7 @@
     "css-loader": "^3.5.3",
     "html-loader": "^1.1.0",
     "style-loader": "^1.2.1",
+    "svelte-loader": "^2.13.6",
     "vue-loader": "^15.9.2",
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.43.0",

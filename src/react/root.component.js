@@ -4,7 +4,7 @@ import "./styles.css";
 const App = () => {
   return (
     <div className="react-container">
-      <h1>Microfrontends POC using React and Vue</h1>
+      <h1>Microfrontends POC using React, Vue, and Svelte</h1>
       <article className="react-article">
         <p>This is some text writen in a React app</p>
         <p>
