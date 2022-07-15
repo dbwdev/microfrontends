@@ -18,7 +18,7 @@
     "single-spa-react": "^2.14.0",
     "single-spa-svelte": "^2.0.0",
     "single-spa-vue": "^1.8.2",
-    "svelte": "^3.23.0",
+    "svelte": "^3.49.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
